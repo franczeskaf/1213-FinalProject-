@@ -1,4 +1,4 @@
-# 1213-FinalProject-
+# ITSC 1213-FinalProject-
 Hotel Reservation System
 
 # Project Overview #
